@@ -167,4 +167,5 @@ plt.legend()
 plt.ylim(0, 2000)
 plt.xlim(0, 100)
 plt.tight_layout()
+
 plt.show()
